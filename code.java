@@ -31,13 +31,6 @@ class numberGuess {
             System.out.println("You have " + numOfTries + " tries.");
             System.out.print("Guess again: ");
             userNum = scan.nextInt();
-
         }
-
-
-
-
-
-
     }
 }
